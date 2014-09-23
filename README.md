@@ -1,7 +1,7 @@
 TurnReportStat
 ==============
 
-Statistics of TURN DSP daily report
+Build Statistics of TURN DSP daily report
 
 I receive the DSP report from TURN everyday. 
 This small R program will automatically create an aggregated statistical file with a CPL graph.
